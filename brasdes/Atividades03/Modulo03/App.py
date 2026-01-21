@@ -2,14 +2,9 @@ from kivy.app import App
 from kivy.uix.button import Button
 
 
-class MainApp(App):
+class ButtonApp(App):
     def build(self):
-        button = Button(
-            text='Fala Galera!',
-            size_hint=(0.5, 0.5),
-            pos_hint={'center_x': 0.5, 'center_y': 0.5}
-        )
-
+        button = Button(text='Clique aqui')
         button.bind(on_press=self.on_press_button)
         return button
 
@@ -18,5 +13,4 @@ class MainApp(App):
 
 
 if __name__ == '__main__':
-    app = MainApp()
-    app.run()
+    ButtonApp().run()

@@ -1,4 +1,4 @@
-from area import Retangulo
+from brasdes.Atividades03.Modulo02.area import Retangulo
 import math
 
 while True:

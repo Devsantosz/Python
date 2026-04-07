@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de3bf495-f32d-4386-9ced-fc3232a755ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonTeste/Aula06b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonTeste/aula06a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonTeste/aula07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/desafio05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/desafio06.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio/desafio03.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,14 +58,19 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Aula06b.executor": "Run",
     "Python.aula06a.executor": "Run",
+    "Python.aula07.executor": "Debug",
     "Python.desafio.executor": "Debug",
     "Python.desafio01.executor": "Run",
     "Python.desafio02.executor": "Run",
     "Python.desafio03.executor": "Run",
+    "Python.desafio05.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
+    "Python.ex003.executor": "Run",
+    "Python.ex004.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
@@ -73,7 +80,7 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Aula06b">
+  <component name="RunManager" selected="Python.desafio05">
     <configuration name="Aula06b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="curso em video" />
       <option name="ENV_FILES" value="" />
@@ -97,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula06a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="curso em video" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,7 +118,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonTeste/aula06a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonTeste/aula07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="curso em video" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +141,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio/desafio03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio/desafio05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="curso em video" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,7 +164,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonExercicios/ex001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonExercicios/ex003.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="curso em video" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,7 +187,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonExercicios/ex002.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonExercicios/ex004.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.desafio05" />
+        <item itemvalue="Python.aula07" />
+        <item itemvalue="Python.ex004" />
+        <item itemvalue="Python.ex003" />
         <item itemvalue="Python.Aula06b" />
-        <item itemvalue="Python.aula06a" />
-        <item itemvalue="Python.desafio03" />
-        <item itemvalue="Python.ex002" />
-        <item itemvalue="Python.ex001" />
       </list>
     </recent_temporary>
   </component>

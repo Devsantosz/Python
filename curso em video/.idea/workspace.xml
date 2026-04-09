@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de3bf495-f32d-4386-9ced-fc3232a755ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonTeste/aula08a.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio/desafio05.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonExercicios/ex005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio/desafio06.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonExercicios/ex007.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +55,7 @@
     "Python.Aula06b.executor": "Run",
     "Python.aula06a.executor": "Run",
     "Python.aula07.executor": "Debug",
+    "Python.aula08a.executor": "Run",
     "Python.desafio.executor": "Debug",
     "Python.desafio01.executor": "Run",
     "Python.desafio02.executor": "Run",
@@ -93,7 +84,7 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/guilh/Documentos/GitHub/python/curso em video",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "com.jetbrains.python.documentation.PythonDocumentationConfigurable",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -102,8 +93,8 @@
       <recent name="C:\Users\guilh\Documentos\GitHub\python\curso em video\PythonExercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex015">
-    <configuration name="ex011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.aula08a">
+    <configuration name="aula08a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="curso em video" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,12 +103,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonExercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonTeste" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonExercicios/ex011.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonTeste/aula08a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula08a" />
         <item itemvalue="Python.ex015" />
         <item itemvalue="Python.ex014" />
         <item itemvalue="Python.ex013" />
         <item itemvalue="Python.ex012" />
-        <item itemvalue="Python.ex011" />
       </list>
     </recent_temporary>
   </component>

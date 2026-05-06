@@ -1,0 +1,6 @@
+nome = (input('Digite seu nome completo: '))
+name = nome.strip()
+print(name.upper())
+print(name.lower())
+print("O seu nome completo possue",len(name),"letras.")
+print(len(name[0]))

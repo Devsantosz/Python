@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de3bf495-f32d-4386-9ced-fc3232a755ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex025.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +86,7 @@
     "Python.ex021.executor": "Run",
     "Python.ex022.executor": "Run",
     "Python.ex023.executor": "Run",
+    "Python.ex024.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -105,7 +107,7 @@
       <recent name="C:\Users\guilh\Documentos\GitHub\python\curso em video\PythonExercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex023">
+  <component name="RunManager">
     <configuration name="aula09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="curso em video" />
       <option name="ENV_FILES" value="" />

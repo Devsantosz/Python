@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de3bf495-f32d-4386-9ced-fc3232a755ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonExercicios/ex027.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/desafio/desafio01.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PythonExercicios/ex027.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -87,6 +87,9 @@
     "Python.ex022.executor": "Run",
     "Python.ex023.executor": "Run",
     "Python.ex024.executor": "Run",
+    "Python.ex025.executor": "Run",
+    "Python.ex026.executor": "Run",
+    "Python.ex027.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",

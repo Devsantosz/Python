@@ -1,2 +1,2 @@
-n = float(input('Digite um numero: '))
+n = input('Digite algo: ')
 print(n.isupper())

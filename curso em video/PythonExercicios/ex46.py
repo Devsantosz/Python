@@ -7,5 +7,6 @@ for c in range(10, -1, -1):
     print(c)
     if c == 0:
         for c in range(1,fogos+1):
+            sleep(0.3)
             print("POOOW!")
 print(f"Foram {fogos} fogos.")

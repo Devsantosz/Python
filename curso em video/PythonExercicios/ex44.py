@@ -22,7 +22,8 @@ elif opcao == 3:
     print(f"A sua compra de R$ {preco:.2f} parcelado em 2x, ficou R${parcela:.2f} cada parcela.")
 elif opcao == 4:
     preco = preco + (preco * 20 / 100)
-    parcela = preco / 3
-    print(f"A sua compra ficou R$ {preco:.2f} com juros de 20%, parcelado em 3x, ficou R${parcela:.2f} cada parcela.")
+    parc = int(input("Quantas parcelas?"))
+    parcelas = preco / parc
+    print(f"A sua compra ficou R$ {preco:.2f} com juros de 20%, parcelado em {parc}x, ficou R${parcelas:.2f} cada parcela.")
 else:
     print("Opcao invalida!")

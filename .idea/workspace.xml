@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e320aabf-ee4d-4b6b-b438-5fc9c6aa90fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/curso em video/PythonTeste/aula13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso em video/PythonTeste/aula13b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso em video/PythonExercicios/ex46.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +68,7 @@
     "Python.ex43.executor": "Run",
     "Python.ex44.executor": "Run",
     "Python.ex45.executor": "Run",
+    "Python.ex46.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",

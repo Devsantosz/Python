@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e320aabf-ee4d-4b6b-b438-5fc9c6aa90fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/curso em video/PythonExercicios/ex50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso em video/PythonExercicios/ex51.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,38 +50,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Aula06b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula13b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex036.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex37.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex38.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex39.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex40.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex41.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex42.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex43.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex44.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex45.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex46.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex47.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex48.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex49.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/guilh/Documentos/GitHub/python&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Aula06b.executor": "Run",
+    "Python.aula10.executor": "Run",
+    "Python.aula12.executor": "Run",
+    "Python.aula13.executor": "Run",
+    "Python.aula13b.executor": "Run",
+    "Python.ex036.executor": "Run",
+    "Python.ex37.executor": "Run",
+    "Python.ex38.executor": "Run",
+    "Python.ex39.executor": "Run",
+    "Python.ex40.executor": "Run",
+    "Python.ex41.executor": "Run",
+    "Python.ex42.executor": "Run",
+    "Python.ex43.executor": "Run",
+    "Python.ex44.executor": "Run",
+    "Python.ex45.executor": "Run",
+    "Python.ex46.executor": "Run",
+    "Python.ex47.executor": "Run",
+    "Python.ex48.executor": "Run",
+    "Python.ex49.executor": "Run",
+    "Python.ex50.executor": "Run",
+    "Python.ex51.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/guilh/Documentos/GitHub/python",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="aula10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />

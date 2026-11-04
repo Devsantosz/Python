@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de058302-229c-45d1-9d81-240dedd9d627" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/curso em video/PythonExercicios/ex061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso em video/PythonExercicios/ex062.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +23,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;assignee&quot;: &quot;Devsantosz&quot;
+    }
   ],
-  "lastFilter": {
-    "assignee": "Devsantosz"
+  &quot;lastFilter&quot;: {
+    &quot;assignee&quot;: &quot;Devsantosz&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Devsantosz/python.git&quot;,
     &quot;accountId&quot;: &quot;5b94bdd0-f755-4fff-9bf3-1f39f07b8191&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/curso em video/PythonExercicios/ex062.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
@@ -47,25 +54,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.aula11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex057.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex058.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex059.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex060.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.aula11.executor": "Run",
+    "Python.aula13.executor": "Run",
+    "Python.aula14.executor": "Run",
+    "Python.ex057.executor": "Run",
+    "Python.ex058.executor": "Run",
+    "Python.ex059.executor": "Run",
+    "Python.ex060.executor": "Run",
+    "Python.ex061.executor": "Run",
+    "Python.ex062.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="aula13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />

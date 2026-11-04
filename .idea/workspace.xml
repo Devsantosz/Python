@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de058302-229c-45d1-9d81-240dedd9d627" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/curso em video/PythonExercicios/ex063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso em video/PythonExercicios/ex064.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso em video/PythonExercicios/ex063.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso em video/PythonExercicios/ex063.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +68,7 @@
     "Python.ex061.executor": "Run",
     "Python.ex062.executor": "Run",
     "Python.ex063.executor": "Run",
+    "Python.ex064.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -122,5 +124,9 @@
       <updated>1793193137859</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sequencia fibonacci com laço de repeticao while" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>

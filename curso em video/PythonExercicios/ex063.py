@@ -1,5 +1,5 @@
 print("-=-" * 10)
-print("Sequencia de Fibonacci")
+print("Sequencia Fibonacci")
 print("-=-" * 10)
 
 n = int(input("Quantos termos vc quer mostrar? "))

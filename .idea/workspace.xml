@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de058302-229c-45d1-9d81-240dedd9d627" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso em video/PythonTeste/aula15.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex065.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso em video/PythonExercicios/ex065.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/curso em video/PythonExercicios/ex062.py" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
@@ -60,6 +64,7 @@
     "Python.aula11.executor": "Run",
     "Python.aula13.executor": "Run",
     "Python.aula14.executor": "Run",
+    "Python.aula15.executor": "Run",
     "Python.ex057.executor": "Run",
     "Python.ex058.executor": "Run",
     "Python.ex059.executor": "Run",
@@ -78,6 +83,11 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\guilh\Documentos\GitHub\python\curso em video\PythonExercicios" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="aula13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />

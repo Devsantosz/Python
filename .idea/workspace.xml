@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de058302-229c-45d1-9d81-240dedd9d627" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/curso em video/PythonExercicios/ex068.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso em video/PythonExercicios/ex068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso em video/PythonExercicios/ex069.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     <setting file="file://$PROJECT_DIR$/curso em video/PythonExercicios/ex062.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -75,6 +76,7 @@
     "Python.ex066.executor": "Run",
     "Python.ex067.executor": "Run",
     "Python.ex068.executor": "Run",
+    "Python.ex069.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
